@@ -24,15 +24,9 @@
   </div>
   
   <br/>
-  <br/>
   
   [![many-yun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=many-yun&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/many-yun)
 
-  <br/>
-  
-
-  <br/>
-  <br/>
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=many-yun&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   
