@@ -30,7 +30,6 @@
 
   <br/>
   
-  ![many-yun's GitHub stats](https://github-readme-stats.vercel.app/api?username=many-yun&show_icons=true)
 
   <br/>
   <br/>
